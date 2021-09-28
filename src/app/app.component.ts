@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'App-imagine-apps';
+  barral = ['wework', 'ubicaciones',' espacio de trabajo','grandes empresas', 'ideas'];
+  barrar = ['guardado', 'contacto','iniciar sesión'];
+
 }

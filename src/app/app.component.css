@@ -1,0 +1,22 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    height: 50px;
+    margin: 10px;
+}
+
+.tarjeta{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin: 20px;
+}
+
+.about{
+
+    display: flex;
+    flex-direction: row;
+
+}
